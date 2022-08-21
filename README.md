@@ -1,5 +1,5 @@
 # 
-# <img src="https://c.tenor.com/ouwwWAXjlXwAAAAj/ipl-x-cricket-x.gif" width="48" height="48" >  **IPL Analysis Through Python**
+# <img src="https://user-images.githubusercontent.com/108053296/185796010-17140d50-39bc-4ff5-a88b-e308a734de10.gif" width="48" height="48" >  **IPL Analysis Through Python**
 
 This repository contains the thorough analysis of IPL 2022 data with the help of pandas and matplotlib library.
 
