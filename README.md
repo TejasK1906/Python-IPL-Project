@@ -18,7 +18,7 @@ This repository contains the thorough analysis of IPL 2022 data with the help of
 
 <p align="center"><img src="https://user-images.githubusercontent.com/108053296/185795751-b1ee842e-8cdc-4b15-bc78-3a55dc86626b.gif" width="400" ></p>
 
-##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> Analysis
+##  <img src="https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif"  width="48" height="48"> Analysis
    
     
     o	Top scorer batter in overall IPL 2022.
