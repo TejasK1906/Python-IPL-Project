@@ -113,26 +113,25 @@ This repository contains the thorough analysis of IPL 2022 data with the help of
 
 
 ## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
-
-    1. Jos Buttler was the highest run scorer and Yuzvendra Chahal was the highest wicket taker of IPL 2022.
+1. Jos Buttler was the highest run scorer and Yuzvendra Chahal was the highest wicket taker of IPL 2022.
     
-    2. Quinton de Kock was the highest run scorer in a single inning with 140 runs.
+2. Quinton de Kock was the highest run scorer in a single inning with 140 runs.
     
-    3. Highest team score was 222/2 by Rajasthan Royals.
+3. Highest team score was 222/2 by Rajasthan Royals.
+   
+4. CSK won by the highest run margin by defeating Delhi Capitals.
     
-    4. CSK won by the highest run margin by defeating Delhi Capitals.
+5. Jos buttler was also the highest six hitter of IPL 2022
     
-    5. Jos buttler was also the highest six hitter of IPL 2022
+6. Most no of tosses was won by Sunrisers Hyderabad and least by Rajasthan Royals.
     
-    6. Most no of tosses was won by Sunrisers Hyderabad and least by Rajasthan Royals.
+7. Dinesh Kartik emerged as a best finesher by scoring most runs in death overs.
     
-    7. Dinesh Kartik emerged as a best finesher by scoring most runs in death overs.
+8. Gujrat Titans scored the least no of sixes but still end up winning the tournament.
     
-    8. Gujrat Titans scored the least no of sixes but still end up winning the tournament.
+9. Almost 90% of the time the toss winning team chose to field first which shows most teams preferred to chase in the tournament.
     
-    9. Almost 90% of the time the toss winning team chose to field first which shows most teams preferred to chase in the tournament.
-    
-    10. Out of 74 matches exactly 50% matches were won by chasing and the rest 50% by defending the score. 
+10. Out of 74 matches exactly 50% matches were won by chasing and the rest 50% by defending the score. 
     
 
 
