@@ -12,7 +12,7 @@ This repository contains the thorough analysis of IPL 2022 data with the help of
 | Files/Folder| Description |
 | ------------- | ------------- |
 | **Dataset Folder** | This folder provides you two datsets i.e IPL_MATCHES.csv and IPL_BALL.csv  |
-| **Python File ** | This contains the .ipynb file of the analysis which can be downloaded.  |
+| **Python File** | This contains the .ipynb file of the analysis which can be downloaded.  |
 
 <br>
 
@@ -74,8 +74,10 @@ This repository contains the thorough analysis of IPL 2022 data with the help of
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif width="48" height="48" > Prior Knowledge
-![language-sql](https://user-images.githubusercontent.com/106439762/181936585-d44c5f7c-2a7b-4d35-ad8a-61dcbded1a5e.svg)
-![microsoft-sql-server](https://user-images.githubusercontent.com/106439762/181936612-f96e085e-2d4b-4bc0-8347-1f3e0a894395.svg)
+![pyhton-pandas](https://user-images.githubusercontent.com/106439762/177094844-d74edfa1-823d-4f17-8d94-3600e058cf1e.svg)
+![pyhton-numpy](https://user-images.githubusercontent.com/106439762/177095283-a5bb76ea-bcf6-42bb-a189-cd902233e452.svg)
+![pyhton-seaborn](https://user-images.githubusercontent.com/106439762/177095305-9412535b-1250-4be8-8850-73a852e13423.svg)
+![pyhton-matplotlib](https://user-images.githubusercontent.com/106439762/177095386-81d9ee3f-6b67-4bc3-83f7-30595924a399.svg)
 
 
 
