@@ -83,28 +83,63 @@ This repository contains the thorough analysis of IPL 2022 data with the help of
 
 
 
+
 <br>
 
 ## <img src="https://user-images.githubusercontent.com/106439762/181937125-2a4b22a3-f8a9-4226-bbd3-df972f9dbbc4.gif" width="48" height="48" > Quick Start
 
 
-    1. 
+    1. Import all the neccesary libraries like numpy, pandas, matplotlib and seaborn.
     
-    2.
+    2. Imported both the data files containing ball by ball data and complete matches data.
+    
+    3. Did a bit of data cleaning by removing the null values and assigning some null values with certain data.
+    
+    4. Stated analysing the data by using pandas function like groupby, sort_values etc.
+    
+    5. Used concat and merge fuction wherever reguired.
+    
+    6. Used matplotlib and seaborn charts for the better understanding and visualisation of data
+    
+    7. Provided some of the conclusions based on the analysis at the end.
+    
    
-
-   
+ 
 
 
 <!-- ## <img src="https://www.getcloudapp.com/wp-content/uploads/2021/03/5aebb952e4867ce13f4d308f_laptop_gif_trans.gif" width="70" height="48"/> Screenshots
 
-<p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182037005-e30516c1-390c-4c21-a2b6-0f8c2865eed3.gif"</a></p>
+<p align="center"><a><img src="https://user-images.githubusercontent.com/106439762/182037005-e30516c1-390c-4c21-a2b6-0f8c2865eed3.gif"</a></p> -->
+
+
+## <img src="https://user-images.githubusercontent.com/108053296/185796560-b5035cfb-d8e4-4b61-b6fe-e0e75487bd94.gif" width="48" height="48" > Conclusions
+
+    1. Jos Buttler was the highest run scorer and Yuzvendra Chahal was the highest wicket taker of IPL 2022.
+    
+    2. Quinton de Kock was the highest run scorer in a single inning with 140 runs.
+    
+    3. Highest team score was 222/2 by Rajasthan Royals.
+    
+    4. CSK won by the highest run margin by defeating Delhi Capitals.
+    
+    5. Jos buttler was also the highest six hitter of IPL 2022
+    
+    6. Most no of tosses was won by Sunrisers Hyderabad and least by Rajasthan Royals.
+    
+    7. Dinesh Kartik emerged as a best finesher by scoring most runs in death overs.
+    
+    8. Gujrat Titans scored the least no of sixes but still end up winning the tournament.
+    
+    9. Almost 90% of the time the toss winning team chose to field first which shows most teams preferred to chase in the tournament.
+    
+    10. Out of 74 matches exactly 50% matches were won by chasing and the rest 50% by defending the score. 
+    
 
 
 
 
 
-## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
+<!--## <img src=https://user-images.githubusercontent.com/106439762/178809088-a2d780ad-94f5-4a58-9203-7716d4b2cbf4.gif width="48" height="48"> About Me
 I'm an aspiring data analyst...
 
 
