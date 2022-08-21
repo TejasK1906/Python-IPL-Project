@@ -25,7 +25,7 @@ This repository contains the thorough analysis of IPL 2022 data with the help of
 
     o	Top 10 score in a single match by batsman.
 
-    o   Top 10 average of batsman in IPL 2022.
+    o        Top 10 average of batsman in IPL 2022.
 
     o	Highest team score in the tournament.
 
